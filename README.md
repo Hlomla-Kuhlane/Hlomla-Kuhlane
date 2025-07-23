@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! I'm Hlomla Kuhlane — Aspiring Software Engineer, Tutor & Tech Enthusiast</h1>
+<h1 align="center">Hi 👋! I'm Hlomla Kuhlane Aspiring Software Developement Engineer, Tutor & Tech Enthusiast</h1>
 
 ###
 
